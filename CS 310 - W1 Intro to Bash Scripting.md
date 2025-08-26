@@ -1,6 +1,6 @@
 # CS 310 - W1 Intro to Bash Scripting
 
-By Ian Kollipara
+By Parker Reece
 
 ## What does `man` command allow you to do?
 Allows us to read documentation on a specific coreutil command or library.
@@ -14,4 +14,4 @@ chmod +x <filename>
 ```
 
 ## What aspect of the course are you most excited to learn about?
-
+I am most excited to learn about the various hardware and software commonly used to administrate servers.
